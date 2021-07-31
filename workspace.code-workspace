@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\AAA"
+		},
+		{
+			"path": "..\\1DL"
+		},
+		{
+			"path": "..\\..\\..\\docker\\example"
+		},
+		{
+			"path": "..\\codes"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
